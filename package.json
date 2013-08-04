@@ -1,5 +1,5 @@
 {
-	"description": "ATTENZIONE:\nPer il momento supporta:\n\nOnDemand (rai.tv/RaiTV/*)\nTGR (tgr.rai.it/*)\nNEWS (rai.it/dl/rai/news.html)\nRAI Replay (rai.tv/dl/replaytv/replaytv.html)\n\nNon mi assumo nessuna responsabilit\u00e0 su eventuali danni causati dell&#39;utilizzo di questo software.\n\nUno script per vedere alcuni video RAI (pagati da tutti gli Italiani) su sistemi non Windows. L&#39;incompetenza di alcuni signori in RAI ci impone di comprare Windows, usare un software schifoso e abbandonato dai sui stessi creatori (Silverlight). Ovviamente questi signori sono pagati da noi.",
+	"description": "ATTENZIONE:\nPer il momento supporta:\n\nOnDemand (rai.tv/RaiTV/*)\nTGR (tgr.rai.it/*)\nNEWS (rai.it/dl/rai/news.html)\nRAI Replay (rai.tv/dl/replaytv/replaytv.html)\n\nNon mi assumo nessuna responsabilit\u00e0 su eventuali danni causati dell&#39;utilizzo di questo software.\n\nUno script per vedere alcuni video RAI (pagati da tutti gli Italiani) su sistemi non Windows. L'incompetenza di alcuni signori in RAI ci impone di comprare Windows, usare un software schifoso e abbandonato dai sui stessi creatori (Silverlight). Ovviamente questi signori sono pagati da noi.",
 	"license": "GNU AGPL 3.0",
 	"author": "Fabio Alessandrelli",
 	"url": "",
