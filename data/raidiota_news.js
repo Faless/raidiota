@@ -1,4 +1,6 @@
 var jso=window.content.document.defaultView.wrappedJSObject;
+// Disable auto refresh
+jso.refreshByJS = false;
 
 var ul = document.getElementById("FocusNews").getElementsByClassName("edit")[0];
 var temp = ul.getElementsByTagName("a");
