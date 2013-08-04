@@ -12,5 +12,5 @@ for(var i = 0; i < metas.length; i++) {
 }
 var div = document.getElementById("silverlightControlHost");
 if( div && (wmv || mp4) ) {
-    embedVideos(div, mp4, wmv);
+    embedVideos(div, mp4, wmv, "544", "340");
 }

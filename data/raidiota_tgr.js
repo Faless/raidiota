@@ -32,6 +32,6 @@ for(var i = 0; i < players.length; i++) {
             break;
     }
     if( wmv || mp4 ) {
-        embedVideos(div, mp4, wmv);
+        embedVideos(div, mp4, wmv, "544", "340");
     }
 }
